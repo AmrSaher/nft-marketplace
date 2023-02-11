@@ -1,0 +1,54 @@
+- Responsive:-
+    - [x] Header
+    - [x] Main Btn
+    - [ ] Banner
+    - [ ] Top Seller
+    - [ ] Get More
+    - [ ] Find NFT Items
+    - [ ] Our Updates
+    - [ ] Footer
+    - [ ] Mini Footer
+
+- <= 1250px [x]:-
+    - [x] Header
+    - [x] Main Btn
+    - [x] Banner
+    - [x] Top Seller
+    - [x] Get More
+    - [x] Find NFT Items
+    - [x] Our Updates
+    - [x] Footer
+    - [x] Mini Footer
+
+- <= 1050px [ ]:-
+    - [x] Header
+    - [x] Main Btn
+    - [ ] Banner
+    - [ ] Top Seller
+    - [x] Get More
+    - [x] Find NFT Items
+    - [x] Our Updates
+    - [x] Footer
+    - [x] Mini Footer
+
+- <= 768px [ ]:-
+    - [x] Header
+    - [x] Main Btn
+    - [ ] Banner
+    - [ ] Top Seller
+    - [ ] Get More
+    - [ ] Find NFT Items
+    - [ ] Our Updates
+    - [ ] Footer
+    - [ ] Mini Footer
+
+- Mobile [ ]:-
+    - [x] Header
+    - [x] Main Btn
+    - [ ] Banner
+    - [ ] Top Seller
+    - [ ] Get More
+    - [ ] Find NFT Items
+    - [ ] Our Updates
+    - [ ] Footer
+    - [ ] Mini Footer
